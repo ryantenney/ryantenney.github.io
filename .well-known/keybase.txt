@@ -1,0 +1,65 @@
+==================================================================
+https://keybase.io/ryantenney
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.ryantenney.com
+  * I am ryantenney (https://keybase.io/ryantenney) on keybase.
+  * I have a public key with fingerprint 4C49 E201 CA40 5846 7A42  D947 7863 C523 4D13 335B
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "4c49e201ca4058467a42d9477863c5234d13335b",
+            "host": "keybase.io",
+            "key_id": "7863c5234d13335b",
+            "uid": "9bcda45200b9c3b0a5ca3deb50b13000",
+            "username": "ryantenney"
+        },
+        "service": {
+            "hostname": "www.ryantenney.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1396645609,
+    "expire_in": 157680000,
+    "prev": "621f0b5bb9b46fcbc8bb65b2907f0dc4decd2ed8ed0f12e026f05b39e0d408ba",
+    "seqno": 12,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v0.1.3
+Comment: https://keybase.io/crypto
+
+yMHnAnicbZFdSBRRFMd3+9AyU1Ei6CFoStCS9c7nzqySIVKSFphJkMI2987d3Wlz
+Zp0dv1q0CDLIdtmWIMweiiAlIzKjh8JwcyUloygNE+rBIjMhe0gLBfPuYvTS0zD/
+8zu/cy4ntnmtJcXahIZ2Hspiq60vBhbrLZVF22cCFNSVZsoRoLw48XGpmhsbPkPV
+TMpBcYiTMANoJHOAFznBLnOMInF2uyiwiGdYTqFZluUhlUd5dH+8g2ig7Mc2VScZ
++XGqCkn/w9cnChJEiszxDABQQiwEMo9kVsGQB5BmAQBx0I8NTa7FhDaaZc3EmkZW
+bcmjSN6gIpIHEsNXmcbGRts/zob0WuLwGbqpI/0UqXtM0+eIt5vNvgSPoXPV5ISq
+ppD3k4YGbPhVXaMcNCGRqcbVNCsJAscLQMqjcJNPNbBTjRO8XRDJqiA+BjcQpcDQ
+LgB5CCXICS4EkQihwENGAnYXUBCnYKQwWBGxAlw0gwEjuAAPWQkDhQMilMl8P67T
+dOJmyJ6ymzj9qluTzXoDUy3PBmrWWawplqT1a+IntKRszPh72LdpGyxt7SV8b90C
+7kmuFe6nj7XlTntvlAmb5kb2jYfGn++5VlF6/mf2tuNM+PtSztKE8+uPKL9w0sO0
+sfdw1sOIa+RbZdno/l2h3uWxgNeznNTTFz388lLyXPqO7FD6bHBUq3qTmWp9d5aO
+BN3F5wrmnPP5GTfLLnZF7sSCU90zGdGW4OWiW4Ep94RUMfPl19XiscjikSvS0+D8
+k0722PXHez3RVlvhn62TdVrV79LT5TkfBjNHsLdcaS0JV9/9SJ3o6mgPD38SY0p0
+9uhQx/CBbNGMPfDm99cY3VsOvh6c6NxtfX/hUeF0/2ROCKeWnClYDHfczq1Me1Ux
+zX/u81Ar3lUY/A==
+=JIWu
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ryantenney
+
+==================================================================
